@@ -2,15 +2,6 @@
 
 A responsive Amazon Clone built using HTML, CSS, and JavaScript.
 
-## 🚀 Live Demo
-
-(Add your GitHub Pages link here after deployment)
-
-Example:
-
-https://yourusername.github.io/amazon-clone/
-
----
 
 ## 📌 Features
 
@@ -29,7 +20,6 @@ https://yourusername.github.io/amazon-clone/
 - Mobile Responsive Design
 
 ---
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -72,16 +62,6 @@ Through this project I learned:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-![Homepage Screenshot](screenshot.png)
-
----
-
 ## 🔮 Future Improvements
 
 - User Authentication
@@ -102,7 +82,3 @@ GitHub:
 https://github.com/suchitragugulotho
 
 ---
-
-## ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub.
